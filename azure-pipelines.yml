@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'DESKTOP-CAJ5I23'
+  vmImage: 'Default'
 
 variables:
   solution: '**/*.sln'
